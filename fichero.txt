@@ -1,5 +1,3 @@
 Esto es un fichero bonito.
 Un fichero precioso.
-Me gusta generar conflictos.
-Todos adoramos los ficheros.
-La frase es distinta.
+He arreglado un conflicto.
